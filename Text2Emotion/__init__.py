@@ -16,7 +16,7 @@ def removing_shortcuts(text):
                  'b4': 'before',
                  'idc': "i do not care", 'ty': 'thank you', 'wlcm': 'welcome', 'bc': 'because', '<3': 'love',
                  'xoxo': 'love',
-                 'ttyl': 'talk to you later', 'gr8': 'great', 'bday': 'birthday', 'awsm': 'awesome', 'gud': 'good',
+                 'gr8': 'great', 'bday': 'birthday', 'awsm': 'awesome', 'gud': 'good',
                  'h8': 'hate',
                  'lv': 'love', 'dm': 'direct message', 'rt': 'retweet', 'wtf': 'hate', 'idgaf': 'hate',
                  'irl': 'in real life', 'yolo': 'you only live once', "don't": "do not", 'g8': 'great',
